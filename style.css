@@ -1,0 +1,179 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0px auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  width: 4.5%;
+  margin: auto;
+  border-style: none none dotted none;
+  height: 0px;
+  border-width: 6px;
+  border-color: #D3D3D3;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+.top-container {
+  background-color: #ddf3f5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 350px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+
+.profile-img {
+  width: 400px;
+  height: 300px;
+}
+
+.html {
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.css {
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bootstrap {
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.mongodb {
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.nodejs {
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.reactjs {
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skills {
+  margin: 100px auto 100px auto;
+}
+
+.skill-row {
+  margin: 100px auto 150px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  margin: 50px auto 100px auto;
+  width: 30%;
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.btn {
+	background-color:#4fb5b5;
+	border-radius:10px;
+	border:1px solid #66bfbf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin: 20px auto;
+}
+.btn:hover {
+	background-color:#4fb5b5;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.sunset {
+  width: 20%;
+  margin-top: 40px;
+}
